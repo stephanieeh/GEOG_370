@@ -1,0 +1,39 @@
+Site_EPA_ID,Site_Name,Status,City,County_FIPS,County,State,Region,Longitude,Latitude,EXPOSURE_SCORE
+NCN000409895,Ore Knob Mine,NPL Site,Ashe County,37009,Ashe,North Carolina,4,-81.324606,36.410011,41.379
+NCD981475932,"FCX, Inc. (Washington Plant)",NPL Site,Washington,37013,Beaufort,North Carolina,4,-77.07445,35.559581,63.592
+NCD980557805,Kerr-McGee Chemical Corp - Navassa,NPL Site,Navassa,37019,Brunswick,North Carolina,4,-77.999028,34.247222,54.35
+NCD981023260,Potter's Septic Tank Service Pits,NPL Site,Maco,37019,Brunswick,North Carolina,4,-78.1578,34.2846,54.35
+NCD003149556,"CTS of Asheville, Inc.",NPL Site,Asheville,37021,Buncombe,North Carolina,4,-82.505953,35.493075,77.514
+NCD044447589,Blue Ridge Plating Company,NPL Site,Arden,37021,Buncombe,North Carolina,4,-82.528358,35.462372,77.514
+NCD095459392,"Chemtronics, Inc.",NPL Site,Swannanoa,37021,Buncombe,North Carolina,4,-82.434719,35.625,77.514
+NCD044440303,Bypass 601 Ground Water Contamination,NPL Site,Concord,37025,Cabarrus,North Carolina,4,-80.6093,35.4096,71.677
+NCD003446721,Celanese Corp. (Shelby Fiber Operations),NPL Site,Shelby,37045,Cleveland,North Carolina,4,-81.528339,35.208889,62.747
+NCD024766719,Wright Chemical Corporation,NPL Site,Riegelwood,37047,Columbus,North Carolina,4,-78.2051,34.3284,41.912
+NC1170027261,Cherry Point Marine Corps Air Station,NPL Site,Havelock,37049,Craven,North Carolina,4,-76.8917,34.9,71.514
+NCD003188828,Cape Fear Wood Preserving,NPL Site,Fayetteville,37051,Cumberland,North Carolina,4,-79.020839,35.04945,63.39
+NCD003188844,Carolina Transformer Co.,NPL Site,Fayetteville,37051,Cumberland,North Carolina,4,-78.845,35.063331,63.39
+NC0002374445,Hemphill Road TCE,NPL Site,Gastonia,37071,Gaston,North Carolina,4,-81.189852,35.197933,82.45
+NCD980729602,Jadco-Hughes Facility,NPL Site,Belmont,37071,Gaston,North Carolina,4,-81.041111,35.275831,82.45
+NCD986175644,Davis Park Road TCE,NPL Site,Gastonia,37071,Gaston,North Carolina,4,-81.218889,35.231667,82.45
+NCD986187128,North Belmont PCE,NPL Site,North Belmont,37071,Gaston,North Carolina,4,-81.05125,35.273472,82.45
+NC0001606250,Cristex Drum,NPL Site,Oxford,37077,Granville,North Carolina,4,-78.6067,36.2972,46.78
+NCD122263825,JFD Electronics/Channel Master,NPL Site,Oxford,37077,Granville,North Carolina,4,-78.606389,36.299719,46.78
+NCD981026479,"Benfield Industries, Inc.",NPL Site,Hazelwood,37087,Haywood,North Carolina,4,-83.004169,35.477781,57.087
+NCSFN0406989,Barber Orchard,NPL Site,Waynesville,37087,Haywood,North Carolina,4,-83.063889,35.445833,57.087
+NCD079044426,General Electric Co/Shepherd Farm,NPL Site,East Flat Rock,37089,Henderson,North Carolina,4,-82.411111,35.272222,75.742
+NCD062555792,Sigmon's Septic Tank Service,NPL Site,Statesville,37097,Iredell,North Carolina,4,-80.974583,35.713611,67.902
+NCD095458527,"FCX, Inc. (Statesville Plant)",NPL Site,Statesville,37097,Iredell,North Carolina,4,-80.9163,35.7865,67.902
+NCD982096653,Ram Leather Care,NPL Site,Charlotte,37119,Mecklenburg,North Carolina,4,-80.606806,35.228056,78.407
+NCD980843346,Aberdeen Pesticide Dumps,NPL Site,Aberdeen,37125,Moore,North Carolina,4,-79.4472,35.1384,47.03
+NCD981927502,Geigy Chemical Corp. (Aberdeen Plant),NPL Site,Aberdeen,37125,Moore,North Carolina,4,-79.406669,35.126111,47.03
+NCN000407447,Aberdeen Contaminated Ground Water,NPL Site,Aberdeen,37125,Moore,North Carolina,4,-79.4025,35.1224,47.03
+NCN000407480,Horton Iron and Metal,NPL Site,Wilmington,37129,New Hanover,North Carolina,4,-77.954083,34.26665,65.225
+NC6170022580,Camp Lejeune Military Reservation,NPL Site,Onslow County,37133,Onslow,North Carolina,4,-77.342919,34.717781,50.232
+NCD024644494,ABC One Hour Cleaners,NPL Site,Jacksonville,37133,Onslow,North Carolina,4,-77.3666,34.7414,50.232
+NCN000410161,GMH Electronics,NPL Site,Roxboro,37145,Person,North Carolina,4,-78.941625,36.416722,39.795
+NCD980840409,Charles Macon Lagoon & Drum Storage,NPL Site,Cordova,37153,Richmond,North Carolina,4,-79.8375,34.8925,44.902
+NCD991278953,National Starch & Chemical Corp.,NPL Site,Salisbury,37159,Rowan,North Carolina,4,-80.5412,35.6322,61.161
+NCD003200383,"Koppers Co., Inc. (Morrisville Plant)",NPL Site,Morrisville,37183,Wake,North Carolina,4,-78.8406,35.8463,80.588
+NCD003202603,Ward Transformer,NPL Site,Raleigh,37183,Wake,North Carolina,4,-78.773611,35.901944,80.588
+NCD980557656,"North Carolina State University (Lot 86, Farm Unit #1)",NPL Site,Raleigh,37183,Wake,North Carolina,4,-78.713588,35.801816,80.588
+NCD024900987,Holcomb Creosote Co,NPL Site,Yadkinville,37197,Yadkin,North Carolina,4,-80.675236,36.157875,35.981
