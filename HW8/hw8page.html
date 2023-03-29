@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Homework 8</title>
+</head>
+<body>
+<h1>Homework 8: Geoprocessing Analysis</h1>
+<h2>Stephanie Hall</h2>
+<h3>Research Question: If brownfields have a contamination impact buffer of 1.8 miles, what portion of these areas intersect with drinking water watersheds in NC?</h3>
+<p></p>
+<h3>Explanation: Brownfields are sites indicated by the state to have some sort of harmful contamination that prevents development and could runoff into water sources. A research article linked
+below indicates that brownfields have a contamination risk radius of around 1.8 miles. With this information in mind, 
+I created a map with layers for NC counties, drinking water watersheds, and brownfields. I used geoprocessing tools to create a 1.8 mile buffer around
+the brownfields, representing their contamination radius. I then used geoprocessing tools to find an intersection between the brownfields + their 1.8 mile buffer and 
+the drinking water watersheds. This intersection indicates the points at which brownfield contamination infiltrates our drinking water. This answers my research question and provides vital
+insight into what areas of NC have potential brownfield water contamination. As a note, I zoomed in the NC map to highlight population centers such as the research triangle and the Charlotte/Mecklenburg area.</h3>
+<!-- Your map goes here -->
+<a href="./hw8map.png">
+    <img src="./hw8map.png" alt="your map" width='500px'>
+    </a>
+
+<!-- Link to your shapefile in Github and you CSV -->
+<h2>Data used for this project</h2>
+    <a href="https://data-ncdenr.opendata.arcgis.com/datasets/ncdenr::nc-surface-water-supply-watersheds/explore?location=35.354255%2C-79.877549%2C7.68"> Watersheds Shapefile </a>
+    <p></p>
+    <a href="https://data-ncdenr.opendata.arcgis.com/datasets/ncdenr::nc-brownfields-location-view/explore?location=35.110395%2C-79.947510%2C7.00"> Brownfields Shapefile </a>
+    <p></p>
+    <a href="https://www.berghahnjournals.com/view/journals/environment-and-society/12/1/ares120107.xml"> Research Article </a>
+    <p></p>
+    
+
+</body>
+</html>
